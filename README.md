@@ -2,7 +2,8 @@
 Portfolio Showcase: 'Kral Suyu' for #magarajam2023
 
 > This is a portfolio showcase for "Kral Suyu," a game I helped produce as part of a 3-people team, under the name 'KEI Studios'.
-> *(In collaboration with [Citurinn](https://github.com/citurinn) and NamelessDonut)* 
+> *(In collaboration with [Citurinn](https://github.com/citurinn) and NamelessDonut)*
+> *Note: Only Turkish is supported*
 
 ## About The Game 
 Kral Suyu was made for #magarajam2023.
